@@ -11,6 +11,5 @@ github_username: docg1701
 theme: klise
 plugins:
   - jekyll-feed
-  - jekyll-admin
   - jekyll-sitemap
   - jekyll-postfiles
