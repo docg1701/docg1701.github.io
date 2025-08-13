@@ -1,0 +1,13 @@
+# Configurações do Blog
+title: DevLog de um entusiasta de tecnologia
+author: docg1701
+description: >- # this means to ignore newlines until "baseurl:"
+  Um blog para documentar minha jornada de aprendizado em desenvolvimento, 
+  tecnologia e outros devaneios.
+url: "https://docg1701.github.io"
+github_username: docg1701
+
+# Build settings
+theme: persephone-theme
+plugins:
+  - jekyll-feed

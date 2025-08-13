@@ -1,0 +1,22 @@
+backend:
+  name: github
+  repo: docg1701/docg1701.github.io # Repositório no formato usuário/nome-do-repositório
+  branch: main # ou master, dependendo da sua branch principal
+
+# Onde as imagens e outros arquivos de mídia serão salvos
+media_folder: "assets/img"
+public_folder: "/assets/img"
+
+# Coleções de conteúdo editáveis
+collections:
+  - name: "posts" # Usado nas APIs
+    label: "Posts" # Usado na UI
+    folder: "_posts" # A pasta onde os arquivos de posts ficam
+    create: true # Permitir que usuários criem novos documentos
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Template para o nome do arquivo
+    fields: # Os campos para cada documento, em nosso caso, posts
+      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
+      - {label: "Título", name: "title", widget: "string"}
+      - {label: "Data de Publicação", name: "date", widget: "datetime"}
+      - {label: "Categorias", name: "categories", widget: "string"}
+      - {label: "Corpo do Post", name: "body", widget: "markdown"}
