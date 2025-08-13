@@ -8,6 +8,6 @@ url: "https://docg1701.github.io"
 github_username: docg1701
 
 # Build settings
-theme: persephone-theme
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
