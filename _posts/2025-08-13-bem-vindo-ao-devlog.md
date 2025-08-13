@@ -1,8 +1,10 @@
 ---
+title: Bem-vindo ao meu DevLog!
+date: 2025-08-13 13:00:00 Z
+categories:
+- jekyll
+- update
 layout: post
-title:  "Bem-vindo ao meu DevLog!"
-date:   2025-08-13 10:00:00 -0300
-categories: jekyll update
 ---
 
 Olá, mundo!

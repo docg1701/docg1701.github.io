@@ -1,6 +1,6 @@
 ---
-layout: default
 title: Início
+layout: default
 ---
 
 # Bem-vindo ao meu DevLog
