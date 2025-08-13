@@ -7,6 +7,8 @@ title: Início
 
 Este é o meu espaço para compartilhar aprendizados, projetos e ideias. Navegue pelos posts abaixo!
 
+<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+
 ## Posts
 
 <ul>
