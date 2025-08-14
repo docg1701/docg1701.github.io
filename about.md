@@ -1,6 +1,6 @@
 ---
 title: About
-permalink: /about/
+permalink: "/about/"
 layout: page
 excerpt: Um pouco sobre mim e este blog
 comments: false

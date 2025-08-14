@@ -1,6 +1,6 @@
 ---
 title: Thanks
-permalink: /thanks/
+permalink: "/thanks/"
 layout: page
 excerpt: Agradecimentos e reconhecimentos
 comments: false

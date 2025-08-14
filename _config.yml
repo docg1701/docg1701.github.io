@@ -8,65 +8,49 @@ collections:
   uploads:
     title: Uploads
     output: true
-
-# Profile settings
 author:
   name: docg1701
-  bio: These are some notes for myself and others interested in context-engineering, AI research and LLM assisted development.
+  bio: These are some notes for myself and others interested in context-engineering,
+    AI research and LLM assisted development.
   username: docg1701
   github: docg1701
   email: 
-
-# Site settings
-description: These are some notes for myself and others interested in context-engineering, AI research and LLM assisted development.
+description: These are some notes for myself and others interested in context-engineering,
+  AI research and LLM assisted development.
 url: https://docg1701.github.io
-baseurl: ""
-
-# Theme settings
+baseurl: ''
 theme: klise
-# avatar: /assets/img/avatar.png
-
-# Navigation
 navigation:
-  - {name: 'Home', link: '/'}
-  - {name: 'Archive', link: '/archive'}
-  - {name: 'About', link: '/about'}
-  - {name: 'RSS', link: '/feed.xml'}
-
-# Plugins
+- name: Home
+  link: "/"
+- name: Archive
+  link: "/archive"
+- name: About
+  link: "/about"
+- name: RSS
+  link: "/feed.xml"
 plugins:
 - jekyll-feed
 - jekyll-sitemap
 - jekyll-seo-tag
-
-# SEO settings
-google_analytics:
+google_analytics: 
 lang: pt_BR
-
-# Social links
 social:
-  - {icon: 'github', link: 'https://github.com/docg1701'}
-
-# Build settings
+- icon: github
+  link: https://github.com/docg1701
 markdown: kramdown
 highlighter: rouge
-permalink: /:year/:month/:day/:title/
-
-# Pagination
+permalink: "/:year/:month/:day/:title/"
 paginate: 5
-paginate_path: /page:num/
-
-# Sass
+paginate_path: "/page:num/"
 sass:
   sass_dir: _sass
   style: compressed
-
-# Exclude from processing
 exclude:
-  - Gemfile
-  - Gemfile.lock
-  - node_modules
-  - vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
-  - vendor/ruby/
+- Gemfile
+- Gemfile.lock
+- node_modules
+- vendor/bundle/
+- vendor/cache/
+- vendor/gems/
+- vendor/ruby/

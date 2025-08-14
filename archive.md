@@ -1,6 +1,6 @@
 ---
 title: Archive
-permalink: /archive/
+permalink: "/archive/"
 layout: page
 excerpt: Arquivo completo de todos os posts
 comments: false
