@@ -34,7 +34,7 @@ plugins:
 - jekyll-sitemap
 - jekyll-seo-tag
 google_analytics: 
-lang: pt_BR
+lang: en
 social:
 - icon: github
   link: https://github.com/docg1701
