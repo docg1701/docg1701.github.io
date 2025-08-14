@@ -1,6 +1,7 @@
 ---
 title: Slow start
 date: 2025-08-14 11:41:00 -03:00
+layout: post
 ---
 
 It's been a slow start, i've ran 3 ou 4 cycles of the BMAD method and stopped short before completion. It seems claude code, no matter what i try, keeps going back to outdated training data on code syntax. It sux and brakes everything.
