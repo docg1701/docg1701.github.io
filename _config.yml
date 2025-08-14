@@ -8,13 +8,65 @@ collections:
   uploads:
     title: Uploads
     output: true
-author: docg1701
-description: These are some notes for myself and others interested in context-engineering,
-  AI research and LLM assisted development.
+
+# Profile settings
+author:
+  name: docg1701
+  bio: These are some notes for myself and others interested in context-engineering, AI research and LLM assisted development.
+  username: docg1701
+  github: docg1701
+  email: 
+
+# Site settings
+description: These are some notes for myself and others interested in context-engineering, AI research and LLM assisted development.
 url: https://docg1701.github.io
-github_username: docg1701
+baseurl: ""
+
+# Theme settings
 theme: klise
+# avatar: /assets/img/avatar.png
+
+# Navigation
+navigation:
+  - {name: 'Home', link: '/'}
+  - {name: 'Archive', link: '/archive'}
+  - {name: 'About', link: '/about'}
+  - {name: 'RSS', link: '/feed.xml'}
+
+# Plugins
 plugins:
 - jekyll-feed
 - jekyll-sitemap
 - jekyll-seo-tag
+
+# SEO settings
+google_analytics:
+lang: pt_BR
+
+# Social links
+social:
+  - {icon: 'github', link: 'https://github.com/docg1701'}
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: /:year/:month/:day/:title/
+
+# Pagination
+paginate: 5
+paginate_path: /page:num/
+
+# Sass
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
