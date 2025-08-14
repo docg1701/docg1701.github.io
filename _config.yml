@@ -15,16 +15,11 @@ author:
   username: docg1701
   github: docg1701
   email: 
-  avatar: /assets/img/avatar.jpg 
+  avatar: "/assets/img/avatar.jpg"
 description: These are some notes for myself and others interested in context-engineering,
   AI research and LLM assisted development.
 url: https://docg1701.github.io
-baseurl: ""
-
-# Theme settings
-# Using local theme files instead of gem for GitHub Pages compatibility
-
-# Navigation
+baseurl: ''
 navigation:
 - name: Home
   link: "/"
