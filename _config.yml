@@ -1,5 +1,5 @@
 ---
-title: DevLog de um entusiasta de tecnologia
+title: I'm not a dev, but this is my devlog.
 timezone: America/Sao_Paulo
 collections:
   posts:
@@ -9,8 +9,8 @@ collections:
     title: Uploads
     output: true
 author: docg1701
-description: Um blog para documentar minha jornada de aprendizado em desenvolvimento,  tecnologia
-  e outros devaneios.
+description: These are some notes for myself and others interested in context-engineering,
+  AI research and LLM assisted development.
 url: https://docg1701.github.io
 github_username: docg1701
 theme: klise
