@@ -1,6 +1,6 @@
 ---
 title: Initial state
-date: 2025-08-13 13:00:00 Z
+date: 2025-08-13 10:00:00 -03:00
 categories:
 - meta
 - update
