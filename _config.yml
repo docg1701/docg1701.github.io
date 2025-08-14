@@ -18,7 +18,13 @@ author:
 description: These are some notes for myself and others interested in context-engineering,
   AI research and LLM assisted development.
 url: https://docg1701.github.io
-baseurl: ''
+baseurl: ""
+
+# Theme settings
+# Using local theme files instead of gem for GitHub Pages compatibility
+avatar: /assets/img/avatar.jpeg
+
+# Navigation
 navigation:
 - name: Home
   link: "/"
