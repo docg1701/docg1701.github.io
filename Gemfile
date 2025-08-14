@@ -1,7 +1,6 @@
 source "https://rubygems.org"
 
 gem "jekyll", "~> 4.4"
-gem "klise", git: "https://github.com/piharpi/jekyll-klise"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
