@@ -1,29 +1,29 @@
 ---
-title: Thanks
+title: Credits
 permalink: "/thanks/"
 layout: page
-excerpt: Agradecimentos e reconhecimentos
+excerpt: Technical acknowledgments
 comments: false
 ---
 
-# Agradecimentos
+# Credits
 
-Obrigado por visitar meu blog! 
+You made it here. Good.
 
-## Tecnologias Utilizadas
+## Stack
 
-Este blog foi construído com:
+This thing runs on:
 
-- **[Jekyll](https://jekyllrb.com/)** - Gerador de sites estáticos
-- **[Klise Theme](https://github.com/piharpi/jekyll-klise)** - Tema minimalista e elegante
-- **[GitHub Pages](https://pages.github.com/)** - Hospedagem gratuita
+- **[Jekyll](https://jekyllrb.com/)** - Static site generator that actually works
+- **[Klise Theme](https://github.com/piharpi/jekyll-klise)** - Minimal theme, no bloat
+- **[GitHub Pages](https://pages.github.com/)** - Free hosting that doesn't break
 
-## Inspirações
+## Inspiration
 
-- Comunidade open source
-- Desenvolvedores que compartilham conhecimento
-- Todos que contribuem para tornar a web um lugar melhor
+- People who document their failures
+- Developers who skip the marketing speak
+- Anyone who keeps things simple
 
 ---
 
-*Muito obrigado por fazer parte desta jornada!*
+*If this helped you solve something, we're even.*

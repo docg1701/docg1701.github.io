@@ -2,7 +2,7 @@
 title: Archive
 permalink: "/archive/"
 layout: page
-excerpt: Arquivo completo de todos os posts
+excerpt: Complete archive of posts
 comments: false
 ---
 

@@ -2,26 +2,26 @@
 title: About
 permalink: "/about/"
 layout: page
-excerpt: Um pouco sobre mim e este blog
+excerpt: What you need to know about this place
 comments: false
 ---
 
-# Sobre Mim
+# About
 
-Olá! Sou docg1701, um entusiasta de tecnologia apaixonado por desenvolvimento de software e inovação.
+I'm docg1701. I work with code, systems, and the occasional digital mystery.
 
-Este blog é o meu espaço para compartilhar:
+This space exists to document:
 
-- **Aprendizados** em programação e tecnologia
-- **Projetos** pessoais e experimentos
-- **Reflexões** sobre desenvolvimento e carreira
-- **Descobertas** interessantes no mundo tech
+- Technical findings and dead ends
+- Code experiments that survived
+- Systems that broke and why
+- Random observations from the digital trenches
 
-## Contato
+## Contact
 
 - GitHub: [@docg1701](https://github.com/docg1701)
-- Email: [Disponível no GitHub](https://github.com/docg1701)
+- Email: Check GitHub
 
 ---
 
-*"A melhor maneira de aprender é ensinando e compartilhando conhecimento."*
+*"Most problems are solved by turning it off and on again. The interesting ones aren't."*
