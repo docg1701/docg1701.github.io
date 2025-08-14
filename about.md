@@ -24,4 +24,4 @@ This space exists to document:
 
 ---
 
-*"Most problems are solved by turning it off and on again. The interesting ones aren't."*
+*"Most problems are solved by turning it off and on again. The interesting ones require... engaging."*
