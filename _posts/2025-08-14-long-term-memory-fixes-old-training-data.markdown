@@ -10,9 +10,9 @@ Claude has a bunch of old data built into it. I've been facing a bunch of recurr
 
 It took a while but I figured out Claude was trying to configure and import stuff with complete deprecated syntax. That's because it was trained with up to 18-month deprecated documentation.
 
-Using Context7 mcp I managed to make Claude Opus fix the code and then write down in fine detail what was the problem e how it was fixed.
+Using Context7 mcp I managed to make Claude Opus fix the code and then write down in fine detail what was the problem and how it was fixed.
 
-Then I told it to create a LONG-TERM-MEMORY.md file and store in it that solution. Also added code snippets and through explanations.
+Then I told it to create a LONG-TERM-MEMORY.md file and store the solution in it. Also added code snippets and through explanations.
 
 Then I made it write a SUMMARY in CLAUDE.md so that Sonnet would be able to fight its will to write bad code in the near future.
 
