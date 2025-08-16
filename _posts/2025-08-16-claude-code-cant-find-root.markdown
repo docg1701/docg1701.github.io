@@ -6,7 +6,7 @@ layout: post
 
 Claude code will eventually lose its track of where it is in the code base. It sux, because it will hallucinate like a crazy bitch on LSD.
 
-So I found out you could set CLAUDE_BASH_MAINTAIN_PROJECT_WORKING_DIR=true in settings.json and it should always get back to the root directory as soon as the tool-call ends. That's sounds great!
+So I've found out one could set CLAUDE_BASH_MAINTAIN_PROJECT_WORKING_DIR=true in settings.json and it should always get back to the root directory as soon as the tool-call ends. That sounds great!
 
 So my settings.json in \~/.claude looks like this now:
 
