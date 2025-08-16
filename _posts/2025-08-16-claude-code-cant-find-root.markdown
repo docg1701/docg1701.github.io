@@ -10,15 +10,15 @@ So I found out you could set CLAUDE_BASH_MAINTAIN_PROJECT_WORKING_DIR=true in se
 
 So my settings.json in \~/.claude looks like this now:
 
-> {
-> "statusLine": {
-> "type": "command",
-> "command": "bash \~/.claude/statusline-script.sh"
-> },
-> "model": "opusplan",
-> "env": {
-> "CLAUDE_BASH_MAINTAIN_PROJECT_WORKING_DIR": "true"
-> }
-> }
+{
+  "statusLine": {
+    "type": "command",
+    "command": "bash ~/.claude/statusline-script.sh"
+  },
+  "model": "opusplan",
+  "env": {
+    "CLAUDE_BASH_MAINTAIN_PROJECT_WORKING_DIR": "true"
+  }
+}
 
 Will it work? Time will tell.
