@@ -1,6 +1,7 @@
 ---
 title: Long-term memory with heimdall-mcp
 date: 2025-08-16 11:31:00 -03:00
+layout: post
 ---
 
 After digging and digging through mcp sludge all over the web I finally found [heimdall](https://github.com/lcbcFoo/heimdall-mcp-server) which actually works.
