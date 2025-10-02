@@ -1,5 +1,5 @@
 ---
-title: Well, claude is to dumb to code.
+title: Well, claude is too dumb to code.
 date: 2025-10-02 08:28:00 -03:00
 layout: post
 ---
